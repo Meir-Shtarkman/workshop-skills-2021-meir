@@ -1,1 +1,5 @@
-Creating file2.
+<<<<<<< HEAD
+
+=======
+Creating file2. again.
+>>>>>>> 638756f (commit b2-1)
